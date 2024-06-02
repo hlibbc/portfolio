@@ -2,7 +2,7 @@
 
 ### Blockchain Mainnet 개발기술
 - Arbitrum Orbit 기반 롤업체인 개발 경험이 있습니다. 전체적인 개발설계를 할 수 있으며 모든 부분에 있어 직접 개발도 가능합니다.
-- Cosmos SDK 를 이용한 앱체인 개발도 가능합니다. ethermint 모듈을 올려 evm 호환가능한 cosmos 앱체인을 만들 수 있습니다.
+- Cosmos SDK 를 이용한 앱체인 개발도 가능합니다. 개발 방법론적인 측면에서 cosmos 생태계와 evm 기반 블록체인의 차이점을 확실히 인지하고 있으며, cosmos 본연의 앱체인 개발이 가능합니다. ethermint 모듈을 올려 evm 호환가능한 cosmos 앱체인 또한 만들 수 있습니다.
   
 
 
