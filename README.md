@@ -3,6 +3,7 @@
 ### Blockchain Mainnet 개발기술
 - Arbitrum Orbit 기반 롤업체인 개발 경험이 있습니다. 전체적인 개발설계를 할 수 있으며 모든 부분에 있어 직접 개발도 가능합니다.
 - Cosmos SDK 를 이용한 앱체인 개발도 가능합니다. ethermint 모듈을 올려 evm 호환가능한 cosmos 앱체인을 만들 수 있습니다.
+  
 
 
 ### Blockchain Smartcontract 개발기술
@@ -16,6 +17,7 @@
 - create, create2 operation 원리에 대해 이해하고 있으며, minimal proxy 개발 경험이 있습니다. (eip-1167)
 - solidity assembly를 이해하고 있으며, 이를 활용한 gas 최적화 개발 설계가 가능합니다.
 - bridge contract 개발 가능합니다. (polygon fxPortal, arbitrum-bridge, ..)
+  
 
 
 ### Blockchain Node operating 기술
