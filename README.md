@@ -16,7 +16,7 @@
 - token escrow 모듈 개발 경험이 있습니다. (eip-5528)
 - create, create2 operation 원리에 대해 이해하고 있으며, minimal proxy 개발 경험이 있습니다. (eip-1167)
 - solidity assembly를 이해하고 있으며, 이를 활용한 gas 최적화 개발 설계가 가능합니다.
-- bridge contract 개발 가능합니다. (polygon fxPortal, arbitrum-bridge, ..)
+- bridge contract 개발 경험 있습니다. (polygon fxPortal, arbitrum-bridge, ..)
   
 
 
