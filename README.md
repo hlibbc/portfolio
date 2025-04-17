@@ -3,7 +3,6 @@
 ### Blockchain Mainnet 개발기술
 - Arbitrum Orbit 기반 롤업체인 개발 경험이 있습니다. 전체적인 개발설계를 할 수 있으며 모든 부분에 있어 직접 개발도 가능합니다.
 - Arbitrum core 및 system contract들에 대해 분석되어 있습니다. 롤업체인 기술 상세에 대한 설계가 가능합니다.
-- Cosmos SDK 를 이용한 앱체인 개발도 가능합니다. evmos 및 ethermint를 이용한 evm 호환가능한 cosmos 앱체인 또한 만들 수 있습니다.
   
 
 
@@ -28,10 +27,6 @@
 - 다양한 infra 제공업체들의 Service provider를 사용하여 서비스 운용한 경험 있습니다.
   (infura, alchemy, quicknode, allthatnode(국내), nodit(국내), kas(klaytn 전용))
 
-
-### Blockchain data operation 기술
-- blockchain scanner 개발경험 있습니다.
-- dune analytics 사용경험 있습니다.
 
 
 ### Blockchain dapp & web3 서비스 분석
@@ -66,9 +61,6 @@
 ### Language
 - solidity
 - nodejs, typescript
-- go (코어 분석용)
-- rust (cosmwasm, solana 스마트컨트랙트 코드 분석용)
-- c, c++ (블록체인 이전에 주로 다뤘던 언어들)
 
 
 
